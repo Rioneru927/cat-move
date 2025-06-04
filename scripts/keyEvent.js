@@ -8,13 +8,13 @@ export const checkKeyDown = () => {
             case "z":
                 cat.sleep();
                 break;
-            case "n":
+            case "x":
                 cat.default();
                 break;
-            case "x":
+            case "c":
                 cat.eat();
                 break;
-            case "z":
+            case "d":
                 cat.moveRight();
                 break;
             case "a":
