@@ -14,7 +14,7 @@ export const checkKeyDown = () => {
             case "x":
                 cat.eat();
                 break;
-            case "d":
+            case "z":
                 cat.moveRight();
                 break;
             case "a":
